@@ -7,7 +7,6 @@ int main()
 	a=3;
 	b=3;
 
-	printf("HelloWorld.\n");
 	printf("Git Fundamentals.\n");
 
 	printf("sum = %d\n", (a+b));

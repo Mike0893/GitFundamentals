@@ -1,6 +1,6 @@
 CXX = g++
 
-SRC = mypgm.c
+SRC = calcPgm.c
 
 TARGET = Calculator
 
